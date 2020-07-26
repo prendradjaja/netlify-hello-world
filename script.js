@@ -1,1 +1,1 @@
-document.querySelector('#message').innerHTML = 'Hello, world!';
+document.querySelector('#message').innerHTML = 'Hello, Netlify!';
